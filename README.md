@@ -1,2 +1,3 @@
-# scripts
-Personal scripts
+# Scripts
+
+Scripts for my personal use.
